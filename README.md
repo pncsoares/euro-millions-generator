@@ -4,7 +4,7 @@ Web application with a button to create a completely random euro million lucky g
 
 # Disclaimer ⚠️
 
-I am not responsible for the usage of the keys generated in this web application in lucky games such as EuroMillions or other of the same kind.
+I am not responsible for the usage of the keys generated in this web application in lucky games such as EuroMillions or other games of the same kind.
 
 This is just a project created for fun and for learning purposes.
 
