@@ -10,7 +10,9 @@ This is just a project created for fun and for learning purposes.
 
 # How to use
 
-Click in the "Generate" button every time you want to create a new key
+Open the web application url: https://pncsoares.github.io/euro-millions-generator/src
+
+Then just click in the "Generate" button every time you want to create a new key
 
 As simple as that! ✅
 
