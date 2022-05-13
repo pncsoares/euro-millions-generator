@@ -20,7 +20,7 @@ As simple as that! ✅
 
 ## Algorithms
 
-- Improve JavaScript code
+- [ ] Improve JavaScript code
   - [ ] Remove duplicated code
   - [ ] Change technology to Svelte
 - [ ] Replace current CSS styling with tailwind CSS
