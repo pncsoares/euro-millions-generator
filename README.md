@@ -16,6 +16,20 @@ Then just click in the "Generate" button every time you want to create a new key
 
 As simple as that! ✅
 
+# Checklist
+
+## Algorithms
+
+- Improve JavaScript code
+  - [ ] Remove duplicated code
+  - [ ] Change technology to Svelte
+- [ ] Replace current CSS styling with tailwind CSS
+
+## User Interface
+
+- [ ] Create number generation animation
+- [ ] Show alternative design with euro millions bet card (paper)
+
 # Technologies
 
 - [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
