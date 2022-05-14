@@ -27,6 +27,7 @@ As simple as that! ✅
 
 ## User Interface
 
+- [ ] Responsive
 - [ ] Create number generation animation
 - [ ] Show alternative design with euro millions bet card (paper)
 
