@@ -20,21 +20,20 @@ As simple as that! ✅
 
 ## Algorithms
 
-- [ ] Improve JavaScript code
-  - [ ] Remove duplicated code
-  - [ ] Change technology to Svelte
-- [ ] Replace current CSS styling with tailwind CSS
+-   [ ] Remove duplicated code
+-   [ ] Use a framework
+-   [ ] Replace current CSS styling with tailwind CSS
 
 ## User Interface
 
-- [ ] Create number generation animation
-- [ ] Show alternative design with euro millions bet card (paper)
+-   [ ] Create number generation animation
+-   [ ] Show alternative design with euro millions bet card (paper)
 
 # Technologies
 
-- [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
-- [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
-- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+-   [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
+-   [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+-   [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 # Setup
 
