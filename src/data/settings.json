@@ -1,0 +1,12 @@
+{
+    "number": {
+        "numberOfNumbers": 5,
+        "minNumber": 1,
+        "maxNumber": 50
+    },
+    "star": {
+        "numberOfStars": 2,
+        "minStar": 1,
+        "maxStar": 12
+    }
+}
