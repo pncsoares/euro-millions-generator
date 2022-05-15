@@ -20,21 +20,22 @@ As simple as that! ✅
 
 ## Algorithms
 
--   [ ] Remove duplicated code
--   [ ] Use a framework
--   [ ] Replace current CSS styling with tailwind CSS
+-   [x] Remove duplicated code
+-   [x] Use a framework
+-   [x] Replace current CSS styling with tailwind CSS
 
 ## User Interface
 
-- [ ] Responsive
+- [x] Responsive
+- [ ] Add multi-language support
 - [ ] Create number generation animation
 - [ ] Show alternative design with euro millions bet card (paper)
 
 # Technologies
 
--   [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
--   [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
--   [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+- [React](https://reactjs.org/docs/getting-started.html)
+- [TailwindCSS](https://tailwindcss.com/docs/installation)
+- [DaisyUI](https://daisyui.com/docs/install)
 
 # Setup
 
